@@ -71,7 +71,7 @@ width: 15%;
 
 .main{
  
-        margin-top: 140px;
+        margin-top: 245px;
         text-align: center;
    
 }
@@ -160,3 +160,11 @@ width: 15%;
       .video_exp img {
         width:60px;
         }
+
+    .fixed-header{
+
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
