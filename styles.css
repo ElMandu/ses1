@@ -242,10 +242,10 @@ width: 15%;
     }
 
     @media (max-width: 575px) {
-      .navbar,
+      /* .navbar,
       .actions {
         display: none;
-      }
+      } */
     
       .main {
         padding-left: 60px;
@@ -295,7 +295,19 @@ width: 15%;
         line-height: 1.2;
 
       }
-     /*  .navbar,
+     /** Tarjetas */
+  .features {
+    grid-template: repeat(4, 1fr) / 1fr;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .feature-image {
+    display: none;
+  }
+     
+     
+     
+      /*  .navbar,
       .actions {
         display: none;
       } */
