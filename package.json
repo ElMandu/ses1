@@ -1,0 +1,25 @@
+{
+  "name": "ses1",
+  "version": "1.0.0",
+  "description": "https://bedu-fef.netlify.app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElMandu/ses1.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Alejandro Geronimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElMandu/ses1/issues"
+  },
+  "homepage": "https://github.com/ElMandu/ses1#readme",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}
