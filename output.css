@@ -45,5 +45,14 @@ Fuentes
   width: 180px;
   margin-bottom: 15px;
 }
+.blog .col .card-title {
+  color: #4a4a4a;
+}
+.blog .col .card-text {
+  color: #979797;
+}
+.blog .col .category {
+  color: #67b54b;
+}
 
 /*# sourceMappingURL=output.css.map */

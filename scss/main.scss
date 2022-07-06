@@ -49,4 +49,19 @@
     margin-bottom: 15px;
 
   }
+
+  .col{
+  
+    .card-title{
+        color: $gray;
+    }
+
+   .card-text{
+    color: $light-gray;
+    }
+    .category{
+        color: $light-green;
+    }
+  }
+  
 }
